@@ -2,5 +2,5 @@ APIVersion: "1"
 name: drupal8
 type: drupal8
 docroot: docroot
-webimage: drud/nginx-php-fpm7-local:v0.3.0
+webimage: drud/nginx-php-fpm7-local:v0.3.1
 dbimage: drud/mysql-docker-local-57:v0.2.0
