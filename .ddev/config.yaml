@@ -1,4 +1,3 @@
 APIVersion: "1"
-name: drupal8
 type: drupal8
 docroot: docroot
